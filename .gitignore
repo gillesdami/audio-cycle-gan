@@ -1,0 +1,4 @@
+__pycache__
+data/*/
+audio_samples
+saved_models
