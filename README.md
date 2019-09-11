@@ -28,7 +28,7 @@ I recommand using the [french CSS dataset](http://kaggle.com/bryanpark/french-si
 
 You can see the help page and run the model on the fr dataset like this:
 
-```python
+```bash
 python3 audiocyclegan.py --help
 python3 audiocyclegan.py # trains and generate audio samples
 ```
